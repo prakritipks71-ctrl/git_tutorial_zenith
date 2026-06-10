@@ -32,4 +32,3 @@ def simple_shapes_area():
 print("1.Rectangle\n2.Square\n3.Triangle\n4.Circle")
 shape = input("Enter a shape from above: ").lower()
 simple_shapes_area()
-    
